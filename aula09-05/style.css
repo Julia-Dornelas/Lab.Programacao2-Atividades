@@ -1,0 +1,15 @@
+div {
+  border: 4px rgb(0, 0, 0) solid;
+  margin: auto;
+  width: 1000px ;
+}
+
+h1 {
+  color: rgb(21, 166, 215);
+  margin: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
